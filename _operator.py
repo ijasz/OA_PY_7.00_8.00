@@ -23,3 +23,21 @@
 
 # a = a + 2
 # print(a)
+
+# Comparision operator
+# > < >= <= == !=
+
+# print(4 > 5)
+# print(4 < 5)
+# print(4 == 5)
+# print(4 != 4)
+# print(4 <= 5)
+# print(5 >= 5)
+
+# Logical operator
+# and or not
+
+# print(-999999999999 < 6 and 7 > -9567)
+# print(not (0 < -6) and 7 > -9567)
+
+# print(not (0 < -6 or 7 > -9567))
