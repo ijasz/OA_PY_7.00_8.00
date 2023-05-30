@@ -41,3 +41,8 @@
 # print(not (0 < -6) and 7 > -9567)
 
 # print(not (0 < -6 or 7 > -9567))
+
+# membership operator
+# in not in
+
+# print("h" not in "hello")
