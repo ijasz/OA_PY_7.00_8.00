@@ -46,3 +46,16 @@
 # in not in
 
 # print("h" not in "hello")
+
+# identity operator
+# is is not
+
+# a = True
+# b = True
+
+# print(id(a))
+# print(id(b))
+
+# print(a is not b)
+# print(a is b)
+# print(a == b)
